@@ -30,3 +30,17 @@ https://i.imgur.com/KLQZRJu.png
 ## git fetch
     * busca as modificações e não aplica
     * ai usamos o git diff origin/master para mostrar as alterações, caso concordemos, rodamos o git pull
+
+## git branch
+    * lista todas as branch e qual estamos trabalhando
+## git branch name_branch
+    * Cria uma nova branch, mas não faz o checkout  automatico
+### git log --oneline --decorate
+    * verificar em qual branch estamos trabalhando
+### git checkout Name_branch
+    * alterna da branch atual para a branch selecionada
+
+## git merge
+    * mescla as branchs 
+# .gitignore
+    * nome dos arquivos a serem ignorados pelo git, ou seja, nçao serem rastreados.
