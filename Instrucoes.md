@@ -24,3 +24,9 @@ https://i.imgur.com/KLQZRJu.png
     * Seta o repo remoto a ser usado
 ## git push -u origin master
     * faz um push (envia as alterações commitadas)
+## git pull
+    * Vai no repo remoto e traz pro repo local e aplica sem pedir confirmação
+    * tomar muito cuidado
+## git fetch
+    * busca as modificações e não aplica
+    * ai usamos o git diff origin/master para mostrar as alterações, caso concordemos, rodamos o git pull
