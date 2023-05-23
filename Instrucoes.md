@@ -19,4 +19,4 @@ https://i.imgur.com/KLQZRJu.png
     * mostra o log de commits
 # git restore
     * Volta o repositório ou arquivo a um estado anterior
-# git 
+###### REPOS REMOTOS
