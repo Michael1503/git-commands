@@ -19,4 +19,8 @@ https://i.imgur.com/KLQZRJu.png
     * mostra o log de commits
 # git restore
     * Volta o repositório ou arquivo a um estado anterior
-###### REPOS REMOTOS
+### REPOS REMOTOS
+## git remote add origin https://github.com/Michael1503/git-commands.git
+    * Seta o repo remoto a ser usado
+## git push -u origin master
+    * faz um push (envia as alterações commitadas)
